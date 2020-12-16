@@ -1,0 +1,269 @@
+{
+	"status": 1,
+	"data": [{
+			"id": 1,
+			"name": "Electronics",
+			"has_products": 0,
+			"sub_categories": [{
+					"id": 4,
+					"name": "Hand-held Devices",
+					"has_products": 0,
+					"sub_categories": [{
+							"id": 11,
+							"name": "Mobiles",
+							"has_products": 1,
+							"sub_categories": [{
+									"id": 6,
+									"name": "Drawing Room",
+									"has_products": 1,
+									"sub_categories": [{
+											"id": 15,
+											"name": "Top Wear",
+											"has_products": 1,
+											"sub_categories": [{
+													"id": 13,
+													"name": "Fridges",
+													"has_products": 1,
+													"sub_categories": [{
+															"id": 13,
+															"name": "Fridges",
+															"has_products": 1,
+															"sub_categories": null
+														},
+														{
+															"id": 14,
+															"name": "Washing Machines",
+															"has_products": 1,
+															"sub_categories": null
+														}
+													]
+												},
+												{
+													"id": 14,
+													"name": "Washing Machines",
+													"has_products": 1,
+													"sub_categories": null
+												}
+											]
+										},
+										{
+											"id": 16,
+											"name": "Bottom Wear",
+											"has_products": 1,
+											"sub_categories": [{
+													"id": 13,
+													"name": "Fridges",
+													"has_products": 1,
+													"sub_categories": null
+												},
+												{
+													"id": 14,
+													"name": "Washing Machines",
+													"has_products": 1,
+													"sub_categories": null
+												}
+											]
+										},
+										{
+											"id": 17,
+											"name": "Foot Wear",
+											"has_products": 1,
+											"sub_categories": null
+										},
+										{
+											"id": 18,
+											"name": "Caps, Socks & Others",
+											"has_products": 1,
+											"sub_categories": null
+										}
+									]
+								},
+								{
+									"id": 7,
+									"name": "Dinning Room",
+									"has_products": 1,
+									"sub_categories": [{
+											"id": 15,
+											"name": "Top Wear",
+											"has_products": 1,
+											"sub_categories": [{
+													"id": 13,
+													"name": "Fridges",
+													"has_products": 1,
+													"sub_categories": null
+												},
+												{
+													"id": 14,
+													"name": "Washing Machines",
+													"has_products": 1,
+													"sub_categories": null
+												}
+											]
+										},
+										{
+											"id": 16,
+											"name": "Bottom Wear",
+											"has_products": 1,
+											"sub_categories": null
+										},
+										{
+											"id": 17,
+											"name": "Foot Wear",
+											"has_products": 1,
+											"sub_categories": null
+										},
+										{
+											"id": 18,
+											"name": "Caps, Socks & Others",
+											"has_products": 1,
+											"sub_categories": null
+										}
+									]
+								},
+								{
+									"id": 8,
+									"name": "Bed Room",
+									"has_products": 1,
+									"sub_categories": null
+								}
+							]
+						},
+						{
+							"id": 12,
+							"name": "Tabs",
+							"has_products": 1,
+							"sub_categories": null
+						}
+					]
+				},
+				{
+					"id": 5,
+					"name": "Fridges & Washing Machines",
+					"has_products": 1,
+					"sub_categories": [{
+							"id": 13,
+							"name": "Fridges",
+							"has_products": 1,
+							"sub_categories": null
+						},
+						{
+							"id": 14,
+							"name": "Washing Machines",
+							"has_products": 1,
+							"sub_categories": null
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"id": 3,
+			"name": "Fashion",
+			"has_products": 0,
+			"sub_categories": [{
+					"id": 9,
+					"name": "Mens",
+					"has_products": 0,
+					"sub_categories": [{
+							"id": 15,
+							"name": "Top Wear",
+							"has_products": 1,
+							"sub_categories": null
+						},
+						{
+							"id": 16,
+							"name": "Bottom Wear",
+							"has_products": 1,
+							"sub_categories": null
+						},
+						{
+							"id": 17,
+							"name": "Foot Wear",
+							"has_products": 1,
+							"sub_categories": null
+						},
+						{
+							"id": 18,
+							"name": "Caps, Socks & Others",
+							"has_products": 1,
+							"sub_categories": null
+						}
+					]
+				},
+				{
+					"id": 10,
+					"name": "Womens",
+					"has_products": 0,
+					"sub_categories": [{
+							"id": 19,
+							"name": "Top Wear",
+							"has_products": 1,
+							"sub_categories": [{
+									"id": 6,
+									"name": "Drawing Room",
+									"has_products": 1,
+									"sub_categories": [{
+											"id": 15,
+											"name": "Top Wear",
+											"has_products": 1,
+											"sub_categories": null
+										},
+										{
+											"id": 16,
+											"name": "Bottom Wear",
+											"has_products": 1,
+											"sub_categories": null
+										},
+										{
+											"id": 17,
+											"name": "Foot Wear",
+											"has_products": 1,
+											"sub_categories": null
+										},
+										{
+											"id": 18,
+											"name": "Caps, Socks & Others",
+											"has_products": 1,
+											"sub_categories": null
+										}
+									]
+								},
+								{
+									"id": 7,
+									"name": "Dinning Room",
+									"has_products": 1,
+									"sub_categories": null
+								},
+								{
+									"id": 8,
+									"name": "Bed Room",
+									"has_products": 1,
+									"sub_categories": null
+								}
+							]
+						},
+						{
+							"id": 20,
+							"name": "Bottom Wear",
+							"has_products": 1,
+							"sub_categories": null
+						},
+						{
+							"id": 21,
+							"name": "Foot Wear",
+							"has_products": 1,
+							"sub_categories": null
+						},
+						{
+							"id": 22,
+							"name": "Caps, Socks & Others",
+							"has_products": 1,
+							"sub_categories": null
+						}
+					]
+				}
+			]
+		}
+	]
+}
